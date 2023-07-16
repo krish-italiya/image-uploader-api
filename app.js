@@ -45,7 +45,7 @@ app.use(
   cors({
     credientials: true,
     origin:
-      "https://64b3da68b4ec0526bdd6bffc--extraordinary-mandazi-b3bd8c.netlify.app/",
+      "https://64b3dcb32922992b620679c8--luxury-vacherin-89ddde.netlify.app/",
     exposedHeaders: ["set-cookie"],
   })
 );
